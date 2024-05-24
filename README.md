@@ -12,7 +12,7 @@ This repository contains a Go implementation of a state machine. The state machi
 As a library
 
 ```bash
-go get github.com/gavinin/go-state-machine
+go get github.com/gavinin/go-statemachine
 ```
 
 ## Usage
